@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WeatherRep-Reacts/static/css/main.f2f15713.css",
+    "main.css": "/WeatherRep-Reacts/static/css/main.3735cca6.css",
     "main.js": "/WeatherRep-Reacts/static/js/main.1e30c819.js",
     "static/media/Grass.jpg": "/WeatherRep-Reacts/static/media/Grass.51f077083aba9b36aaea.jpg",
     "index.html": "/WeatherRep-Reacts/index.html",
-    "main.f2f15713.css.map": "/WeatherRep-Reacts/static/css/main.f2f15713.css.map",
+    "main.3735cca6.css.map": "/WeatherRep-Reacts/static/css/main.3735cca6.css.map",
     "main.1e30c819.js.map": "/WeatherRep-Reacts/static/js/main.1e30c819.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2f15713.css",
+    "static/css/main.3735cca6.css",
     "static/js/main.1e30c819.js"
   ]
 }
